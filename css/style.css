@@ -61,7 +61,7 @@ header h1::after {
 }
 
 header h1::before {
-    content: 'UI/UX DEVELOPMENT';
+    content: 'WEB DEVELOPMENT';
     display: block;
     font: 14px/1 'orbitron';
     color: #fff;
